@@ -1,4 +1,4 @@
-iOS-alerts-and-huds
+## MBAlertView
 ===================
 
-Fun, simple, and block-based alert and HUD views
+MBAlertView is a fun and simple block-based alert and HUD library for iOS.
