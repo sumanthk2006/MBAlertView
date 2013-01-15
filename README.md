@@ -3,13 +3,13 @@
 
 MBAlertView is a fun and simple block-based alert and HUD library for iOS, as seen in [Notestand.](https://itunes.apple.com/us/app/notestand-notes-discussions/id586976282?mt=8)
 
-<img src="http://i.imgur.com/CEriB.png" alt="alert1" title="alert1" style="margin-right:10px; margin-left:10px; width:20%; height:auto; float:left;">
+<img src="http://i.imgur.com/CEriB.png" alt="alert1" title="alert1" style="margin-right:10px; margin-left:10px; float:left;">
 
-<img src="http://i.imgur.com/5wXt9.png" alt="hud1" title="hud1" style="display:block;margin-right:10px; width:20%; height:auto; float:left;">
+<img src="http://i.imgur.com/7CbbT.png" alt="hud1" title="hud1" style="display:block;margin-right:10px; float:left;">
 
-<img src="http://i.imgur.com/jstL2.png" alt="hud2" title="hud2" style="display:block; margin-right:10px; width:20%; height:auto; float:left;">
+<img src="http://i.imgur.com/lq53u.png" alt="hud2" title="hud2" style="display:block; margin-right:10px;  float:left;">
 
-<img src="http://i.imgur.com/trk5t.png" alt="hud2" title="hud2" style="display:block; margin-right:10px; width:20%; height:auto;">
+<img src="http://i.imgur.com/Aqfnr.png" alt="hud2" title="hud2" style="display:block; margin-right:10px;">
 
 ### Features
 <ul>
