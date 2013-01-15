@@ -25,7 +25,7 @@ There are two factory methods to get you started:
 
 ``` objective-c
 MBAlertView *alert = [MBAlertView alertWithBody:@"Are you sure you want to delete this note? You cannot undo this." cancelTitle:@"Cancel" cancelBlock:nil];
-   [alert addButtonWithText:@"Delete" type:MBAlertViewItemTypeDestructive block:^{ // delete }];
+[alert addButtonWithText:@"Delete" type:MBAlertViewItemTypeDestructive block:^{}];
 [alert addToDisplayQueue];
 ```
 
